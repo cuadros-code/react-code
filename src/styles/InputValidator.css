@@ -1,0 +1,30 @@
+
+
+.input_item::-webkit-outer-spin-button,
+.input_item::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.input_item {
+  border: 2px solid #ccc;
+  width: 30px;
+  height: 45px;
+  margin: 0 5px;
+  -webkit-appearance: none;
+  text-align: center;
+  font-size: 1.5rem;
+  outline: none;
+  border-radius: 5px;
+}
+
+.input_item:focus {
+  border: 2px solid rgb(5, 142, 255);
+}
+
+input::placeholder{
+  color: #ccc;
+}
+
+input:focus::placeholder {
+  color: transparent;
+}
