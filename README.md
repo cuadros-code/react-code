@@ -7,33 +7,33 @@
 To get started, install and save in your `package.json` dependencies, run:
 
 ```bash
-npm i pin-code-react
+npm i @kevincuadros/react-code
 ```
 or
 ```bash
-yarn add pin-code-react
+yarn add @kevincuadros/react-code
 ```
 
 ## Demo
 
-![image](https://raw.githubusercontent.com/cuadros-code/react-pin-code/gh-pages/default.png)
+![image](https://github.com/cuadros-code/react-code/blob/gh-pages/default.png?raw=true)
 
-[Documentation and examples](https://cuadros-code.github.io/react-code/)
+[Documentation and examples](https://cuadros-code.github.io/react-code/?path=/story/pin-code--default)
 
-[Source code](https://github.com/cuadros-code/react-pin-code)
+[Source code](https://github.com/cuadros-code/react-code)
 
 ## Importing
 
 You can use the following two ways to import module.
 
 ```javascript
-import { PinCode } from 'pin-code-react'
+import { PinCode } from '@kevincuadros/react-code'
 ```
 
 ## Usage
 ### Basic Example
 ```jsx
-import { PinCode } from 'pin-code-react';
+import { PinCode } from '@kevincuadros/react-code';
 
 const App = () => {
   
