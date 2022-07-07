@@ -1,8 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "1.3.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/cuadros-code"
+  },
   "repository": {
     "url": "https://github.com/cuadros-code/react-code",
     "type": "git"
@@ -40,7 +44,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-code",
+  "name": "@cuadros-code/react-code",
   "author": "kevin cuadros",
   "module": "dist/react-code.esm.js",
   "size-limit": [
