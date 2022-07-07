@@ -18,7 +18,7 @@ yarn add pin-code-react
 
 ![image](https://raw.githubusercontent.com/cuadros-code/react-pin-code/gh-pages/default.png)
 
-[Documentation and examples](https://cuadros-code.github.io/react-pin-code)
+[Documentation and examples](https://cuadros-code.github.io/react-code/)
 
 [Source code](https://github.com/cuadros-code/react-pin-code)
 
