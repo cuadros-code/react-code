@@ -44,7 +44,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@cuadros-code/react-code",
+  "name": "@kevincuadros/react-code",
   "author": "kevin cuadros",
   "module": "dist/react-code.esm.js",
   "size-limit": [
