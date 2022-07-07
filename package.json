@@ -3,6 +3,11 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/cuadros-code/react-code",
+    "type": "git"
+  },
+  "homepage": "https://github.com/cuadros-code/react-code",
   "files": [
     "dist",
     "src"
@@ -72,5 +77,11 @@
   },
   "dependencies": {
     "postcss": "^8.4.14"
-  }
+  },
+  "keywords": [
+    "react",
+    "code",
+    "code-validation",
+    "type-checking"
+  ]
 }
